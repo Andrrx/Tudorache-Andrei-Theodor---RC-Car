@@ -5,7 +5,6 @@
 
 # Descriere generală
 
-![Untitled Diagram drawio](https://github.com/user-attachments/assets/ce33b2aa-4faa-4ba8-8934-0709f6315798)
 
 # Hardware Design
 
