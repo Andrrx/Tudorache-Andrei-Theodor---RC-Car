@@ -9,7 +9,9 @@ Proiectul constă în realizarea unei mașini de mici dimensiuni, controlate de 
 Controlul mașinii se realizează printr-o aplicație mobilă, permițând transmiterea comenzilor de direcție și viteză. Modulul Bluetooth preia comenzile și le transmite către Arduino, care le procesează și gestionează funcționarea motoarelor.
 
 # Hardware Design
+  *Schema Electrica*:![Uploading image.png…]()
 
+  
 ## Lista de piese
 - *Microcontroller:* Arduino Uno 
 - *Fire de conexiune*
