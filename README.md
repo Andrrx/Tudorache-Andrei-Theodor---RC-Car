@@ -2,9 +2,11 @@
 # RC Car
 
 # Introducere
-
+Proiectul de față are ca scop dezvoltarea unei mașini autonome controlate de la distanță prin intermediul unei conexiuni Bluetooth.
+Prin utilizarea unei plăci Arduino Uno, împreună cu un modul Bluetooth, proiectul explorează concepte fundamentale din domeniul roboticii, cum ar fi controlul motorului, transmiterea datelor wireless și interacțiunea om-mașină.
 # Descriere generală
-
+Proiectul constă în realizarea unei mașini de mici dimensiuni, controlate de la distanță prin Bluetooth, utilizând o placă Arduino Uno. Sistemul include un modul Bluetooth pentru comunicare wireless, motoare pentru deplasare, un șasiu de susținere și diverse componente auxiliare precum un driver pentru motoare și o sursă de alimentare.
+Controlul mașinii se realizează printr-o aplicație mobilă, permițând transmiterea comenzilor de direcție și viteză. Modulul Bluetooth preia comenzile și le transmite către Arduino, care le procesează și gestionează funcționarea motoarelor.
 
 # Hardware Design
 
@@ -15,7 +17,6 @@
 - Modul cu Driver de Motoare Dual L298N Rosu
 - Roti x4
 - Motoare x4
-- 
 
 # Software Design
 
