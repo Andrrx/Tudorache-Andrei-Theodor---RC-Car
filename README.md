@@ -10,7 +10,12 @@
 
 ## Lista de piese
 - *Microcontroller:* Arduino Uno 
-- *Fire de conexiune* 
+- *Fire de conexiune*
+- Modul Bluetooth Master Slave HC-05
+- Modul cu Driver de Motoare Dual L298N Rosu
+- Roti x4
+- Motoare x4
+- 
 
 # Software Design
 
