@@ -33,10 +33,13 @@ Controlul mașinii se realizează printr-o aplicație mobilă, permițând trans
 ### Funcționalități implementate
 Control wireless prin Bluetooth
     Mașina poate fi controlată de la distanță printr-o aplicație mobilă sau un dispozitiv compatibil Bluetooth. Aceasta permite transmiterea comenzilor de mișcare, precum înainte, înapoi, stânga și dreapta.
+
 Gestionarea motoarelor DC
     Utilizarea unui modul driver de motoare L298N permite controlul precis al rotației motoarelor, oferind posibilitatea de a ajusta direcția și viteza mașinii.
+
 Răspuns rapid la comenzi
     Sistemul este configurat pentru a răspunde rapid la comenzile transmise, asigurând o experiență fluidă de control la distanță.
+
 Extensibilitate
     Proiectul permite adăugarea de noi funcționalități, cum ar fi senzori de proximitate sau linii, pentru a transforma mașina într-un sistem semiautonom sau complet autonom.
 
