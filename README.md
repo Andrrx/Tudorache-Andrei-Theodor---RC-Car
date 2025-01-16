@@ -42,6 +42,10 @@ Extensibilitate
 
  # Rezultate Obținute
 
+
+https://github.com/user-attachments/assets/a1ddef9b-09e5-4b80-9fa6-d96be943861c
+
+
  # Concluzii
 
  # Bibliografie/Resurse
